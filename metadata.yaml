@@ -1,5 +1,8 @@
 _repo: Index-of-the-Project-Gutenberg-Works-of-Fergus-Hume_59359
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59359-h/images/cover.jpg
 creator:
   author:
     agent_name: Hume, Fergus
@@ -7,16 +10,18 @@ creator:
     - Hume, Ferguson Wright
     - Hume, Fergus W. (Ferguson Wright)
     birthdate: 1859
-    deathdate: &id001 1932
+    deathdate: 1932
     gutenberg_agent_id: '1057'
     url: http://www.gutenberg.org/2009/agents/1057
     wikipedia: http://en.wikipedia.org/wiki/Fergus_Hume
   editor:
     agent_name: Widger, David
-    birthdate: *id001
+    birthdate: 1932
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59359#Index-of-the-Project-Gutenberg-Works-of-Fergus-Hume
 gutenberg_issued: '2019-04-25'
 gutenberg_type: Text
 identifiers:
